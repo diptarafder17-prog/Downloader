@@ -1,0 +1,6 @@
+{
+  "name": "Universal Video Downloader & AI Media Suite",
+  "description": "Universal video and audio downloader powered by yt-dlp concepts with Gemini AI assistant, text-to-speech studio, and frame image analyzer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
